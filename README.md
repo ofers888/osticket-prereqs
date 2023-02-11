@@ -26,7 +26,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - install the Rewrite Module 
 - Create the directory C:\PHP
 - install MySQL 
-- Install osTicket v1.15.8
+- Install osTicket
 
 <h2>Installation Steps</h2>
 
@@ -75,5 +75,13 @@ Create the directory C:\PHP
 </p>
 <p>
  install MySQL 
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/3KTWRLu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Install osTicket
 </p>
 <br />
